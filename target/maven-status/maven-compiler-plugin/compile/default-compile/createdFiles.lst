@@ -1,0 +1,5 @@
+br\eti\kge\agendaapp\AgendaApp.class
+br\eti\kge\agendaapp\menu\MenuOption.class
+br\eti\kge\agendaapp\model\Contato.class
+br\eti\kge\agendaapp\menu\MenuManager.class
+br\eti\kge\agendaapp\model\Agenda.class
