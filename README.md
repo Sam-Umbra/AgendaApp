@@ -6,8 +6,8 @@ Curso Técnico de Desenvolvimento de Sistemas
 
 **Atenção:**
 
-O sistema não está completo. É um starter para iniciar os trabalho de correção, melhoria e conclusão do sistema, como um apoio aos estudos em sala de aula.
+O código base se encontra no repositório https://github.com/Sam-Umbra/POO-AgendaApp
 
-Siga as orientações fornecidas pelo professor em sala.
+Este é um projeto terminado.
 
-*Prof.KGe*
+*Samu*
